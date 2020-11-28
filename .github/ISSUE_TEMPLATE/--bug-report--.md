@@ -2,7 +2,7 @@
 name: "— Bug Report —"
 about: Report a bug that happened in dreample.
 title: "[Bug Report] Issue with dreample."
-labels: ''
+labels: bug
 assignees: ''
 
 ---
