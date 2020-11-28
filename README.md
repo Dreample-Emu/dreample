@@ -9,10 +9,14 @@ Our hud will work and our emulator will be playable! Like no other.
 We have two people working on this so please be patient, This will take at least two months unless we get more help.
 
 We aren't forking Reicast, we are starting over with the new emulator dreample.
+
+
 dreample.
 ---------------------------------
 We are Dreample.
 dream(cast) (ap)ple
+
+
 Our Links
 -------------------------
 Discord Server: https://discord.gg/T2CRUPPa
