@@ -1,6 +1,8 @@
-# Dreample - a iOS dreamcast emulator.
-A soon to be dreamcast emulator. 
+# dreample - dreamcast emulator for iOS
+Welcome to dreample's offical GitHub!, you are currently viewing the main branch code.
 
+
+To see the website's branch code please switch the branch to "e".
 
 Description
 --------------------------
