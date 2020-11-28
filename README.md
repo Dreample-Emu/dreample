@@ -1,5 +1,2 @@
 # Dreample
------- Description
-A soon to be iOS dreamcast emulator.
-
------ To Do List
+A soon to be dreamcast emulator. We aren't reicast we are dreample we won't have a bland menu we will have a dreamcast themed menu are hud will work and our emulator will be playable! Like no other. We have two people working on this so please be patient this will take at least two months unless we get more help we aren't forking reicast we are starting over with the new emulator dreample.
