@@ -6,7 +6,7 @@ To see the website's branch code please switch the branch to "gh-pages".
 
 Description
 --------------------------
-We aren't ReiCast, we are dreample! 
+We aren't ReiCast, but we are dreample! 
 We won't have a bland menu, we will have a dreamcast themed menu.
 Our hud will work and our emulator will be playable!, like no other.
 
