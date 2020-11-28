@@ -1,5 +1,7 @@
 # Dreample - a iOS dreamcast emulator.
 A soon to be dreamcast emulator. 
+
+
 Description
 --------------------------
 We aren't Reicast, we are dreample! 
@@ -18,6 +20,11 @@ dream(cast) (ap)ple
 
 
 Our Links
--------------------------
+---------------------------------
 Discord Server: https://discord.gg/T2CRUPPa
 Our Discord is still in development too!
+
+Read this please.
+---------------------------------
+Dreample is under developement, the emulator might be a bit finicky at first but all projects improve at some time.
+Currently this project is W.I.P (Work In Progress).
