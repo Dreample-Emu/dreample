@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to our page!
+Welcome to dreample's offical page!
 
-You can use the [editor on GitHub](https://github.com/Dreample-Emu/Dreample/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+dreample - dreamcast emulator for iOS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to dreample's offical GitHub!, you are currently viewing the main branch code.
 
-### Markdown
+To see the website's branch code please switch the branch to "e".
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Description
 
-```markdown
-Syntax highlighted code block
+We aren't ReiCast, we are dreample! We won't have a bland menu, we will have a dreamcast themed menu. Our hud will work and our emulator will be playable!, like no other.
 
-# Header 1
-## Header 2
-### Header 3
+We have two people working on this so please be patient, This will take at least two months unless we get more help.
 
-- Bulleted
-- List
+We aren't forking Reicast, we are starting over with the new emulator dreample.
 
-1. Numbered
-2. List
+dreample.
 
-**Bold** and _Italic_ and `Code` text
+We are Dreample. dream(cast) (ap)ple
 
-[Link](url) and ![Image](src)
-```
+how to pronounce dreample > dreamPULL (prounounce it like that.)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Our Links
 
-### Jekyll Themes
+Discord Server: https://discord.gg/T2CRUPPa Our Discord is still in development too!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dreample-Emu/Dreample/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Read this please.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dreample is under developement, the emulator might be a bit finicky at first but all projects improve at some time. Currently this project is W.I.P (Work In Progress).
