@@ -17,6 +17,7 @@ dreample.
 ---------------------------------
 We are Dreample.
 dream(cast) (ap)ple
+how to pronounce dreample > dreamPULL (prounounce it like that.)
 
 
 Our Links
