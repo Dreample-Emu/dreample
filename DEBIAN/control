@@ -1,0 +1,9 @@
+Package: dreample-emu.github.io
+Name: dreample
+Version: ${DCAST_VER}
+Architecture: iphoneos-arm
+Description: A Dreamcast emulator for iOS devices.
+Homepage: https://dreample-emu.github.io
+Maintainer: Dreample <dreample-emu.github.io>
+Author: Dreample <dreample-emu.github.io>
+Section: Games
