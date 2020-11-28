@@ -2,7 +2,7 @@
 Welcome to dreample's offical GitHub!, you are currently viewing the main branch code.
 
 
-To see the website's branch code please switch the branch to "e".
+To see the website's branch code please switch the branch to "gh-pages".
 
 Description
 --------------------------
