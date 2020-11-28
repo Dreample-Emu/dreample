@@ -4,9 +4,9 @@ A soon to be dreamcast emulator.
 
 Description
 --------------------------
-We aren't Reicast, we are dreample! 
+We aren't ReiCast, we are dreample! 
 We won't have a bland menu, we will have a dreamcast themed menu.
-Our hud will work and our emulator will be playable! Like no other. 
+Our hud will work and our emulator will be playable!, like no other.
 
 We have two people working on this so please be patient, This will take at least two months unless we get more help.
 
