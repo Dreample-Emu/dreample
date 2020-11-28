@@ -5,7 +5,6 @@ dreample - dreamcast emulator for iOS
 
 Welcome to dreample's offical GitHub!, you are currently viewing the main branch code.
 
-To see the website's branch code please switch the branch to "e".
 
 Description
 
@@ -15,7 +14,7 @@ We have two people working on this so please be patient, This will take at least
 
 We aren't forking Reicast, we are starting over with the new emulator dreample.
 
-dreample.
+.
 
 We are Dreample. dream(cast) (ap)ple
 
