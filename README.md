@@ -1,2 +1,3 @@
 # Dreample
-A soon to be iOS dreamcast emulator
+A dreamcast emulator that is for iOS Devices.
+Hopefully to be full speed or at least full speed
