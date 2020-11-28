@@ -1,2 +1,2 @@
 # Dreample
-A soon to be iOS dreamcast emulator
+A soon to be iOS dreamcast emulator.
