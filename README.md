@@ -1,4 +1,4 @@
-# Dreample
+# dreample - a iOS dreamcast emulator.
 A soon to be dreamcast emulator. 
 ---------------------------------
 We aren't Reicast, we are dreample! 
