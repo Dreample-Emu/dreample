@@ -33,3 +33,12 @@ Dreample is under developement, the emulator might be a bit finicky at first but
 ## Releases
 
 https://github.com/Dreample-Emu/Dreample/releases
+
+## Other Emulators
+
+-- iNDS RX --
+iNDS RX is our fork of iNDS we plan to change stuff (obviously)
+
+---------------------
+   -- rcz --
+   RCZ is a emulator that is iOS, we plan on releasing it some time before or after dreample.
