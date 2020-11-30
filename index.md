@@ -7,7 +7,7 @@ Welcome to dreample's offical GitHub!, you are currently viewing the main branch
 
 
 ## Description
--- Description --
+
 
 We aren't ReiCast, we are dreample! We won't have a bland menu, we will have a dreamcast themed menu. Our hud will work and our emulator will be playable!, like no other.
 
@@ -27,10 +27,9 @@ how to pronounce dreample > dreamPULL (prounounce it like that.)
 Discord Server: https://discord.gg/T2CRUPPa Our Discord is still in development too!
 
 ## !! Reminder !!
--- !! Reminder !! --
 
 Dreample is under developement, the emulator might be a bit finicky at first but all projects improve at some time. Currently this project is W.I.P (Work In Progress).
 
 ## Releases
--- Releases --
+
 https://github.com/Dreample-Emu/Dreample/releases
