@@ -1,0 +1,14 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN  }}
+        issue-message: 'It seems that this is your first issue on dreample, Choose your template and fill it out.'' first issue'
+        pr-message: 'Please make sure that your pull-request works on dreample and has little to no bugs.'' first pr'
+ 
